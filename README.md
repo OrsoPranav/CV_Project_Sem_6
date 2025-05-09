@@ -16,7 +16,7 @@ Lightweight modifications such as Low-Rank Adaptation (LoRA) and mixed precision
 The performance of our hybrid model under different configurations is presented below:
 
 Model	                    Parameters	mIoU (%)
-CNN–ViT Hybrid Model	    45.3M	    73.8
+CNN–ViT Hybrid Model	      45.3M	    73.8
 Hybrid Model + LoRa	        38.7M	    73.2
 Hybrid Model + FP16	        45.1M	    71.5
 Hybrid Model + LoRa + FP16	38.7M	    69.9
