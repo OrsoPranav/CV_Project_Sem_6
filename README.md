@@ -12,7 +12,7 @@ A custom loss function to stabilize training with noisy pseudo labels.
 
 Lightweight modifications such as Low-Rank Adaptation (LoRA) and mixed precision (FP16) to reduce compute demands.
 
-📊 Results\\
+📊 Results\n
 The performance of our hybrid model under different configurations is presented below:
 
 Model	                    Parameters	mIoU (%)
