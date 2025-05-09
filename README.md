@@ -26,4 +26,5 @@ The performance of our hybrid model under different configurations is presented 
 These results demonstrate that LoRA significantly reduces parameters with only marginal accuracy loss, while FP16 offers speedups at the cost of performance.
 
 Website:
+
 ![alt text](website.png)
